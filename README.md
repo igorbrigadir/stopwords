@@ -48,6 +48,6 @@ Notes:
 TODO
 
 ## See Also:
-https://github.com/lintool/IR-Reproducibility/tree/master/systems
-http://www.umiacs.umd.edu/~oard/teaching/734/fall15/software.html
-https://github.com/6/stopwords-json
+* https://github.com/lintool/IR-Reproducibility/tree/master/systems
+* http://www.umiacs.umd.edu/~oard/teaching/734/fall15/software.html
+* https://github.com/6/stopwords-json
