@@ -1,0 +1,324 @@
+%
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+a
+a bit of
+a couple of
+a few
+a good deal of
+a good many
+a great deal of
+a great many
+a lack of
+a little
+a little bit of
+a majority of
+a minority of
+a number of
+a plethora of
+a quantity of
+aboard
+about
+above
+absent
+according to
+accordingly
+across
+after
+against
+ahead
+ahead of
+albeit
+all
+all over
+along
+alongside
+although
+amid
+amidst
+among
+amongst
+an
+an amount of
+and
+another
+anti
+any
+anybody
+anyone
+anything
+around
+as
+as of
+as to
+aside
+astraddle
+astride
+at
+away from
+bar
+barring
+be able to
+because
+because of
+before
+behind
+below
+beneath
+beside
+besides
+between
+beyond
+both
+but
+by
+by the time of
+can
+certain
+circa
+close by
+close to
+concerning
+consequently
+considering
+could
+dare
+despite
+down
+due to
+during
+each
+each other
+eight
+eighth
+either
+enough
+every
+everybody
+everyone
+everything
+except
+except for
+excepting
+excluding
+failing
+few
+fewer
+fifth
+five
+following
+for
+for all
+four
+fourth
+from
+given
+had better
+half
+have to
+he
+heaps of
+hence
+her
+hers
+herself
+him
+himself
+his
+however
+I
+if
+in
+in between
+in front of
+in keeping with
+in place of
+in spite of
+in view of
+including
+inside
+instead of
+into
+it
+its
+itself
+less
+like
+little
+loads
+lots
+many
+masses of
+may
+me
+might
+mine
+minus
+more
+most
+much
+must
+my
+myself
+near
+near to
+need to
+neither
+nevertheless
+next to
+nine
+ninth
+no
+no one
+nobody
+none
+nor
+nothing
+notwithstanding
+numbers of
+of
+off
+on
+on top of
+once
+one
+one another
+onto
+opposite
+or
+other
+other than
+ought
+ought to
+our
+ours
+ourselves
+out
+out of
+outside
+over
+part
+past
+pending
+per
+pertaining to
+plenty of
+plus
+quantities of
+quarter
+regarding
+respecting
+round
+save
+saving
+seven
+seventh
+several
+shall
+she
+should
+similar to
+since
+six
+sixth
+so
+some
+somebody
+someone
+something
+such
+ten
+tenth
+than
+thanks to
+that
+the
+the lack of
+the majority of
+the minority of
+the number of
+the plethora of
+the remainder of
+the rest of
+the whole
+their
+theirs
+them
+themselves
+then
+thence
+therefore
+these
+they
+third
+this
+tho'
+those
+though
+three
+through
+throughout
+thru
+thus
+till
+to
+tons of
+toward
+towards
+two
+under
+underneath
+unless
+unlike
+until
+unto
+up
+up to
+upon
+us
+used to
+various
+versus
+via
+wanting
+we
+what
+whatever
+when
+whence
+whenever
+where
+whereas
+wherever
+whether
+which
+whichever
+while
+whilst
+who
+whoever
+whom
+whomever
+whose
+will
+with
+within
+without
+would
+yet
+you
+your
+yours
+yourself
+yourselves
+zero
+œ
+Œ
