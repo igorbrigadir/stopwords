@@ -82,9 +82,11 @@ Notes:
 * There are way too many other blog posts and pages that list english stopwords, and many more are hardcoded in different implementations. I tried finding the most prominent ones (well known tools, or linked from Wiki, or first result on Google, or from IR / NLP researchers).
 * [build.py](build.py) generates this file with table above from en_stopwords.csv
 
-## Papers:
+## TODO:
 
-TODO: Find original papers
+* Visualise differences and overlaps
+* Find and cite original papers that introduced specific lists
+* Influence on retrieval: How much can be attributed to just stopwords. Is it significant? Lets find out.
 
 ## See Also:
 * https://en.wikipedia.org/wiki/Stop_words
