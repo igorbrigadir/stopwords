@@ -97,7 +97,7 @@ everywhere
 except
 few
 fifteen
-fify
+fifty
 fill
 find
 fire
@@ -217,7 +217,6 @@ please
 put
 quite
 rather
-rather
 re
 really
 regarding
@@ -297,7 +296,6 @@ us
 used
 using
 various
-very
 very
 via
 was
