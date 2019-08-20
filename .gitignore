@@ -1,2 +1,4 @@
 *.tmp
 .~lock.en_stopwords.csv#
+tmp/
+.ipynb_checkpoints/
