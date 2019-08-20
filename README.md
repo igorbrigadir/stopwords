@@ -1,5 +1,7 @@
 # Default English Stop Words from Different Sources:
 
+[![DOI](https://zenodo.org/badge/70948862.svg)](https://zenodo.org/badge/latestdoi/70948862)
+
 Stopword filtering is a common step in preprocessing text for various purposes. This is a list of several different stopword lists extracted from various search engines, libraries, and articles. There's a surprising number of different lists.
 
 At the moment it's just English stopwords.
